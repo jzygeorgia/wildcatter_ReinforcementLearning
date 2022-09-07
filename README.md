@@ -23,11 +23,11 @@ Reinforcement learning framework for well placement and optimization
 
 ## Features
 
-- TODO
+- Multiple well drilling, with geological and economic constraints 
 
 ## Requirements
 
-- TODO
+- Please refer to the requirement txt file in this repo
 
 ## Installation
 
